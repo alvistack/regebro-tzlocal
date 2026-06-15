@@ -8,7 +8,7 @@ description = "tzinfo object for the local timezone"
 readme = "README.rst"
 version = "5.4"
 authors = [{name = "Lennart Regebro", email = "regebro@gmail.com"}]
-license = "MIT"
+license = {text = "MIT"}
 keywords = ["timezone"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
