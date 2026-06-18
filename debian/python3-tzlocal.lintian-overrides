@@ -1,0 +1,4 @@
+python3-tzlocal: copyright-without-copyright-notice
+python3-tzlocal: initial-upload-closes-no-bugs
+python3-tzlocal: no-manual-page
+python3-tzlocal: zero-byte-file-in-doc-directory
