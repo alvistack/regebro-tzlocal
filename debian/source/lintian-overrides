@@ -1,0 +1,5 @@
+python-tzlocal source: file-without-copyright-information
+python-tzlocal source: no-debian-changes
+python-tzlocal source: source-contains-prebuilt-windows-binary
+python-tzlocal source: source-is-missing
+python-tzlocal source: source-package-encodes-python-version
